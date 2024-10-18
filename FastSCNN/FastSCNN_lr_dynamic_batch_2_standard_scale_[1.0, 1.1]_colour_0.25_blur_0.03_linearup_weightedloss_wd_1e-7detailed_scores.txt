@@ -1,0 +1,22 @@
+Class-wise IoU scores:
+background: 89.17%
+skin: 91.15%
+nose: 86.97%
+eye_g: 70.84%
+l_eye: 76.67%
+r_eye: 76.64%
+l_brow: 72.31%
+r_brow: 70.93%
+l_ear: 70.67%
+r_ear: 69.42%
+mouth: 79.22%
+u_lip: 75.46%
+l_lip: 78.68%
+hair: 87.54%
+hat: 55.87%
+ear_r: 39.15%
+neck_l: 7.20%
+neck: 79.11%
+cloth: 64.77%
+
+Mean IoU (mIOU): 70.62%
