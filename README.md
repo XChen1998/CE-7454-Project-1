@@ -1,6 +1,6 @@
 # CE 7454 Project 1 Report: CelebAMask-HQ Face Parsing
 
-This repository contains the implementation of several deep learning models for semantic segmentation, including the SegFormer model. The models were implemented using PyTorch, and Jupyter Notebooks (`.ipynb`) were used for code execution and analysis. All files and necessary scripts are provided to reproduce the results and experiments described in the project. (You may have to unzip the four folders for the four models!)
+This repository contains the implementation of several deep learning models for semantic segmentation, including the SegFormer model. The models were implemented using PyTorch, and Jupyter Notebooks (`.ipynb`) were used for code execution and analysis. All files and necessary scripts are provided to reproduce the results and experiments described in the project.
 
 **The best result and all corresponding files are in the SegFormer folder**
 
