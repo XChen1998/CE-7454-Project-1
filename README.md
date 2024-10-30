@@ -4,6 +4,8 @@ This repository contains the implementation of several deep learning models for 
 
 **The best result and all corresponding files are in the SegFormer folder**
 
+**Known Issue*: In SegFormer_FINAL.ipynb, the test section contains an additional, misplaced definition of the testtransform instance located before the class definition. Please remove this redundant definition.
+
 ## Prerequisites
 
 To run the code, follow these steps:
@@ -71,3 +73,5 @@ Inside the `optimisation` folder, you can find `.ipynb` notebooks for generating
 
 For any queries, please contact **Xinghe Chen** at:  
 📧 [xinghe001@e.ntu.edu.sg](mailto:xinghe001@e.ntu.edu.sg)
+
+
