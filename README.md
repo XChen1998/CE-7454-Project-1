@@ -4,7 +4,7 @@ This repository contains the implementation of several deep learning models for 
 
 **The best result and all corresponding files are in the SegFormer folder**
 
-**Known Issue*: In SegFormer_FINAL.ipynb, the test section contains an additional, misplaced definition of the testtransform instance located before the class definition. Please remove this redundant definition.
+**Known Issue**: In SegFormer_FINAL.ipynb, the test section contains an additional, misplaced definition of the testtransform instance located before the class definition. Please remove this redundant definition.
 
 ## Prerequisites
 
